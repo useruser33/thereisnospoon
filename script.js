@@ -30,6 +30,6 @@ function titilleMoi() {
     }
 
     if (x === 9) {
-        window.location.href = 'https://google.com';
+        window.location.href = 'https://www.google.fr/maps';
     }
 }
